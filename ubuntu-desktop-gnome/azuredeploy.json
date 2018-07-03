@@ -57,7 +57,7 @@
     "availabilitySetNodes": "avail-set",
     "osImagePublisher": "Canonical",
     "osImageOffer": "UbuntuServer",
-    "osImageSKU": "16.04.4-LTS",
+    "osImageSKU": "16.04-LTS",
     "publicIPAddressName": "kunalPublicIP",
     "publicIPAddressType": "Dynamic",
     "customScriptLocation": "https://raw.githubusercontent.com/kzsahay/azure-quickstart-templates/master/ubuntu-desktop-gnome/",
